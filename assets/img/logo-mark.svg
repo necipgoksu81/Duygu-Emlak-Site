@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Duygu Emlak">
+  <rect width="64" height="64" rx="14" fill="#16202e"/>
+  <path d="M32 14 L49 28 V49 a2 2 0 0 1-2 2 H38 V39 a6 6 0 0 0-12 0 V51 H17 a2 2 0 0 1-2-2 V28 Z"
+        fill="none" stroke="#c69749" stroke-width="2.6" stroke-linejoin="round"/>
+  <circle cx="32" cy="30" r="3.4" fill="#c69749"/>
+  <path d="M32 33.4 v5.2" stroke="#c69749" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
